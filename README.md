@@ -1,6 +1,6 @@
 # 👾 Pokedex em CLI (Interface de Linha de Comando)
 
-Este é um programa interativo em Python executado diretamente no terminal para gerenciar uma Pokedex pessoal e o histórico de capturas de Pokémon. O projeto foca em lógica de programação pura, manipulação de estruturas de dados nativas e controle de fluxo.
+Este é um programa interativo em Python executado diretamente no terminal para gerenciar uma Pokedex pessoal e o histórico de capturas de Pokémon. O projeto foca em lógica de programação, manipulação de estruturas de dados nativas e controle de fluxo.
 
 ## 🚀 Conceitos de Python Aplicados
 
@@ -22,7 +22,7 @@ Este é um programa interativo em Python executado diretamente no terminal para 
 ## 🔧 Como Executar o Projeto
 
 ### Pré-requisitos
-*   Apenas o Python instalado (versão 3.x recomendada). Não é necessária a instalação de nenhuma biblioteca externa.
+*   Apenas o Python instalado.
 
 ### Passo a Passo
 
